@@ -1,5 +1,5 @@
 👋 Hi, I’m @vikaspundir0101
-👀 I’m interested in software development, machine learning, and open-source projects.
+👀 I’m interested in software development and open-source projects.
 🌱 I’m currently learning new technologies such as React.js and spring to enhance my skills.
 💞️ I’m looking to collaborate on interesting projects that challenge me and allow me to contribute meaningfully.
 📫 How to reach me: You can reach me via email at [vkrana0101@gmail.com] or connect with me on LinkedIn [
